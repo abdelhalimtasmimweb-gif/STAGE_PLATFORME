@@ -1,0 +1,612 @@
+{
+  "domaines_stage": [
+    {
+      "id": 1,
+      "categorie": "Technologies de l'Information (IT) & Informatique",
+      "sous_domaines": [
+        "Développement Web (Front-end, Back-end, Full-Stack)",
+        "Développement Mobile (iOS, Android)",
+        "Data Science & Analyse de données",
+        "Intelligence Artificielle & Machine Learning",
+        "Cybersécurité",
+        "Administration des systèmes et réseaux",
+        "Cloud Computing",
+        "DevOps",
+        "Test logiciel (QA)",
+        "UX/UI Design"
+      ]
+    },
+    {
+      "id": 2,
+      "categorie": "Ingénierie",
+      "sous_domaines": [
+        "Génie civil",
+        "Génie mécanique",
+        "Génie électrique et électronique",
+        "Génie industriel",
+        "Génie chimique",
+        "Génie aérospatial",
+        "Génie biomédical"
+      ]
+    },
+    {
+      "id": 3,
+      "categorie": "Commerce, Marketing & Vente",
+      "sous_domaines": [
+        "Marketing digital",
+        "Communication",
+        "Gestion de la relation client (CRM)",
+        "Vente et négociation",
+        "E-commerce",
+        "Études de marché",
+        "Brand management"
+      ]
+    },
+    {
+      "id": 4,
+      "categorie": "Finance & Gestion",
+      "sous_domaines": [
+        "Comptabilité",
+        "Audit et contrôle de gestion",
+        "Finance d'entreprise",
+        "Analyse financière",
+        "Gestion de portefeuille",
+        "Banque et assurance"
+      ]
+    },
+    {
+      "id": 5,
+      "categorie": "Santé & Sciences de la Vie",
+      "sous_domaines": [
+        "Recherche médicale",
+        "Pharmacie",
+        "Biotechnologie",
+        "Soins infirmiers",
+        "Nutrition et diététique"
+      ]
+    },
+    {
+      "id": 6,
+      "categorie": "Ressources Humaines",
+      "sous_domaines": [
+        "Recrutement",
+        "Formation et développement",
+        "Gestion des talents",
+        "Administration du personnel"
+      ]
+    },
+    {
+      "id": 7,
+      "categorie": "Médias, Design & Communication",
+      "sous_domaines": [
+        "Journalisme",
+        "Production audiovisuelle",
+        "Graphisme",
+        "Relations publiques",
+        "Rédaction web"
+      ]
+    },
+    {
+      "id": 8,
+      "categorie": "Tourisme & Hôtellerie",
+      "sous_domaines": [
+        "Gestion hôtelière",
+        "Tourisme et patrimoine",
+        "Événementiel"
+      ]
+    },
+    {
+      "id": 9,
+      "categorie": "Environnement & Développement Durable",
+      "sous_domaines": [
+        "Énergies renouvelables",
+        "Gestion des déchets",
+        "Protection de l'environnement"
+      ]
+    },
+    {
+      "id": 10,
+      "categorie": "Droit & Juridique",
+      "sous_domaines": [
+        "Droit des affaires",
+        "Droit public",
+        "Droit international"
+      ]
+    },
+    {
+      "id": 11,
+      "categorie": "Agriculture & Agroalimentaire",
+      "sous_domaines": [
+        "Agronomie",
+        "Agriculture durable",
+        "Transformation alimentaire",
+        "Qualité et sécurité alimentaire",
+        "Viticulture et œnologie"
+      ]
+    },
+    {
+      "id": 12,
+      "categorie": "Transport & Logistique",
+      "sous_domaines": [
+        "Gestion de la chaîne logistique",
+        "Transport maritime et portuaire",
+        "Logistique internationale",
+        "Gestion d'entrepôt",
+        "Supply Chain Management"
+      ]
+    },
+    {
+      "id": 13,
+      "categorie": "Immobilier & Urbanisme",
+      "sous_domaines": [
+        "Gestion immobilière",
+        "Développement urbain",
+        "Transaction immobilière",
+        "Promotion immobilière",
+        "Aménagement du territoire"
+      ]
+    },
+    {
+      "id": 14,
+      "categorie": "Éducation & Formation",
+      "sous_domaines": [
+        "Enseignement",
+        "Animation socio-culturelle",
+        "Formation professionnelle",
+        "Orientation scolaire",
+        "Éducation spécialisée"
+      ]
+    },
+    {
+      "id": 15,
+      "categorie": "Social & Sociétal",
+      "sous_domaines": [
+        "Travail social",
+        "Économie sociale et solidaire",
+        "Développement local",
+        "Médiation sociale",
+        "Protection de l'enfance"
+      ]
+    },
+    {
+      "id": 16,
+      "categorie": "Sport & Bien-être",
+      "sous_domaines": [
+        "Management sportif",
+        "Animation sportive",
+        "Kinésithérapie",
+        "Ostéopathie",
+        "Coaching sportif"
+      ]
+    },
+    {
+      "id": 17,
+      "categorie": "Art & Culture",
+      "sous_domaines": [
+        "Médiation culturelle",
+        "Gestion de musée",
+        "Production artistique",
+        "Conservation du patrimoine",
+        "Régie culturelle"
+      ]
+    },
+    {
+      "id": 18,
+      "categorie": "Recherche & Académique",
+      "sous_domaines": [
+        "Recherche fondamentale",
+        "Recherche appliquée",
+        "Laboratoire universitaire",
+        "Recherche en sciences humaines"
+      ]
+    },
+    {
+      "id": 19,
+      "categorie": "Conseil & Stratégie",
+      "sous_domaines": [
+        "Conseil en management",
+        "Conseil en organization",
+        "Conseil technologique",
+        "Stratégie d'entreprise"
+      ]
+    },
+    {
+      "id": 20,
+      "categorie": "Secteur Public & Administration",
+      "sous_domaines": [
+        "Administration territoriale",
+        "Fonction publique d'État",
+        "Collectivités locales",
+        "Services publics"
+      ]
+    },
+    {
+      "id": 21,
+      "categorie": "Mode & Luxe",
+      "sous_domaines": [
+        "Design de mode",
+        "Marketing du luxe",
+        "Production textile",
+        "Merchandising"
+      ]
+    },
+    {
+      "id": 22,
+      "categorie": "Assurance & Actuariat",
+      "sous_domaines": [
+        "Actuariat",
+        "Gestion des risques",
+        "Courtage en assurance"
+      ]
+    },
+    {
+      "id": 23,
+      "categorie": "Énergie & Mines",
+      "sous_domaines": [
+        "Ingénierie pétrolière",
+        "Énergies renouvelables",
+        "Exploitation minière",
+        "Géologie"
+      ]
+    },
+    {
+      "id": 24,
+      "categorie": "Nautique & Maritime",
+      "sous_domaines": [
+        "Architecture navale",
+        "Logistique portuaire",
+        "Marine marchande"
+      ]
+    },
+    {
+      "id": 25,
+      "categorie": "Spatial & Défense",
+      "sous_domaines": [
+        "Ingénierie spatiale",
+        "Défense et sécurité",
+        "Aéronautique militaire"
+      ]
+    },
+    {
+      "id": 26,
+      "categorie": "Numérique & Créatif",
+      "sous_domaines": [
+        "Motion design",
+        "Réalité virtuelle/augmentée",
+        "Game design",
+        "Community management"
+      ]
+    },
+    {
+      "id": 27,
+      "categorie": "BTP & Construction",
+      "sous_domaines": [
+        "Architecture",
+        "Bureaux d'études",
+        "Travaux publics",
+        "Économie de la construction"
+      ]
+    },
+    {
+      "id": 28,
+      "categorie": "Automobile & Transports",
+      "sous_domaines": [
+        "Ingénierie automobile",
+        "Après-vente automobile",
+        "Logistique automobile"
+      ]
+    },
+    {
+      "id": 29,
+      "categorie": "Pharmacie & Cosmétique",
+      "sous_domaines": [
+        "Recherche pharmaceutique",
+        "Cosmétologie",
+        "Dermo-pharmacie"
+      ]
+    },
+    {
+      "id": 30,
+      "categorie": "Audiovisuel & Cinéma",
+      "sous_domaines": [
+        "Production cinématographique",
+        "Post-production",
+        "Régie audiovisuelle"
+      ]
+    },
+    {
+      "id": 31,
+      "categorie": "Technologies Émergentes",
+      "sous_domaines": [
+        "Blockchain et Web3",
+        "Métavers",
+        "Intelligence Artificielle éthique",
+        "Objets connectés (IoT)",
+        "Robotique avancée"
+      ]
+    },
+    {
+      "id": 32,
+      "categorie": "Développement Durable Spécialisé",
+      "sous_domaines": [
+        "Économie circulaire",
+        "RSE (Responsabilité Sociétale des Entreprises)",
+        "Finance verte",
+        "Urbanisme durable"
+      ]
+    },
+    {
+      "id": 33,
+      "categorie": "Santé Digitale",
+      "sous_domaines": [
+        "Télémédecine",
+        "Santé connectée",
+        "Data santé",
+        "Bio-informatique"
+      ]
+    },
+    {
+      "id": 34,
+      "categorie": "Sécurité & Sûreté",
+      "sous_domaines": [
+        "Sûreté aéroportuaire",
+        "Sécurité incendie",
+        "Protection des données",
+        "Intelligence économique"
+      ]
+    },
+    {
+  "id": 35,
+  "categorie": "Services aux Entreprises & Support",
+  "sous_domaines": [
+    "Service client",
+    "Support technique",
+    "Gestion de projet",
+    "Assistanat de direction",
+    "Facility management"
+  ]
+},
+{
+  "id": 36,
+  "categorie": "Recherche & Innovation",
+  "sous_domaines": [
+    "Recherche clinique",
+    "Innovation technologique",
+    "Transfert de technologie",
+    "Veille stratégique",
+    "R&D produit"
+  ]
+},
+{
+  "id": 37,
+  "categorie": "Industries Créatives & Artisanat",
+  "sous_domaines": [
+    "Artisanat d'art",
+    "Design produit",
+    "Ébénisterie",
+    "Céramique",
+    "Métiers d'art"
+  ]
+},
+{
+  "id": 38,
+  "categorie": "Services à la Personne",
+  "sous_domaines": [
+    "Aide à domicile",
+    "Garde d'enfants",
+    "Soins esthétiques",
+    "Coaching personnel",
+    "Services funéraires"
+  ]
+},
+{
+  "id": 39,
+  "categorie": "Économie Numérique & Plateformes",
+  "sous_domaines": [
+    "Gestion de marketplace",
+    "Contenu digital",
+    "Monétisation en ligne",
+    "Gestion de communauté",
+    "Influence digitale"
+  ]
+},
+{
+  "id": 40,
+  "categorie": "Sciences Humaines & Sociales Appliquées",
+  "sous_domaines": [
+    "Sociologie appliquée",
+    "Psychologie du travail",
+    "Anthropologie culturelle",
+    "Géographie humaine",
+    "Histoire appliquée"
+  ]
+},
+{
+  "id": 41,
+  "categorie": "Industries Spécialisées",
+  "sous_domaines": [
+    "Industrie pharmaceutique",
+    "Industrie automobile",
+    "Industrie aéronautique",
+    "Industrie navale",
+    "Industrie spatiale"
+  ]
+},
+{
+  "id": 42,
+  "categorie": "Services Financiers Spécialisés",
+  "sous_domaines": [
+    "Private equity",
+    "Venture capital",
+    "Finance structurée",
+    "Compliance financière",
+    "Fintech"
+  ]
+}
+  ],
+
+  
+  "descriptions_domaines": [
+    {
+      "id": 1,
+      "description": "Ce domaine couvre le développement, la maintenance et l'optimisation des systèmes informatiques. Il inclut la programmation, la gestion de bases de données, la cybersécurité et l'infrastructure cloud. Les professionnels conçoivent des applications web et mobiles, analysent des données et assurent la sécurité des systèmes. C'est un secteur en constante évolution qui nécessite une veille technologique permanente. Les compétences techniques sont essentielles mais doivent être accompagnées de soft skills."
+    },
+    {
+      "id": 2,
+      "description": "L'ingénierie applique les principes scientifiques à la conception, construction et maintenance de structures et systèmes. Elle se divise en plusieurs spécialités : civile pour les infrastructures, mécanique pour les machines, électrique pour l'énergie. Les ingénieurs résolvent des problèmes techniques complexes en respectant les normes de sécurité et d'efficacité. Le domaine exige rigueur, créativité et capacité d'innovation pour développer des solutions durables."
+    },
+    {
+      "id": 3,
+      "description": "Ce secteur focalise sur la relation entre entreprises et clients, du développement de marque à la vente. Le marketing digital transforme les stratégies traditionnelles avec les réseaux sociaux et l'analyse data. La vente nécessite négociation et compréhension des besoins clients. L'e-commerce révolutionne les canaux de distribution. L'objectif est de créer de la valeur pour l'entreprise tout en satisfaisant la demande marché."
+    },
+    {
+      "id": 4,
+      "description": "La finance gère les flux monétaires des organisations : comptabilité, analyse financière, gestion de risques. La banque et l'assurance proposent des services financiers aux particuliers et entreprises. L'audit vérifie la conformité des pratiques comptables. La gestion de portefeuille optimise les investissements. Le secteur exige précision, éthique et compréhension des marchés financiers mondiaux."
+    },
+    {
+      "id": 5,
+      "description": "Ce domaine dédié à la santé humaine inclut recherche médicale, soins et développement pharmaceutique. La biotechnologie utilise les organismes vivants pour créer des innovations médicales. Les soins infirmiers assurent le bien-être des patients. La nutrition prévient les maladies par l'alimentation. C'est un secteur réglementé où l'innovation doit s'allier à l'éthique et la sécurité des patients."
+    },
+    {
+      "id": 6,
+      "description": "Les RH gèrent le capital humain des organisations : recrutement, formation, développement des compétences. La gestion des talents identifie et fidélise les employés prometteurs. L'administration du personnel gère les contrats et paies. Les RH modernes sont stratégiques, contribuant à la culture d'entreprise et l'engagement des équipes. Le domaine exige empathie, discrétion et compréhension du droit du travail."
+    },
+    {
+      "id": 7,
+      "description": "Ce secteur créatif produit et diffuse du contenu à travers divers médias. Le journalisme informe le public via différents supports. Le design graphique crée des identités visuelle percutantes. La production audiovisuelle développe films et émissions. Les relations publiques gèrent l'image des organisations. La communication digitale utilise les nouveaux canaux pour toucher les audiences."
+    },
+    {
+      "id": 8,
+      "description": "L'industrie touristique accueille et divertit les voyageurs : hôtellerie, restauration, gestion d'événements. Le tourisme culturel valorise le patrimoine. L'événementiel organise congrès, séminaires et festivals. Le secteur exige polyvalence, langues étrangères et excellente qualité de service. La digitalisation transforme les réservations et expériences client."
+    },
+    {
+      "id": 9,
+      "description": "Ce domaine adresse les défis écologiques : transition énergétique, gestion des déchets, protection de la biodiversité. Les énergies renouvelables remplacent les fossiles. L'économie circulaire réduit le gaspillage. Les professionnels développent des solutions pour entreprises et collectivités. Le secteur combine expertise technique et conscience environnementale pour un avenir durable."
+    },
+    {
+      "id": 10,
+      "description": "La pratique du droit conseille et défend les intérêts des clients dans divers domaines. Le droit des affaires régit les relations commerciales. Le droit public organise l'administration et les services publics. Le droit international gère les relations entre États et acteurs transnationaux. Les juristes doivent maîtriser la législation et développer un raisonnement analytique rigoureux."
+    },
+    {
+      "id": 11,
+      "description": "Ce secteur vital nourrit la population via production agricole et transformation alimentaire. L'agronomie optimise les rendements respectueux de l'environnement. L'agroalimentaire transforme les matières premières en produits finis. La qualité et sécurité alimentaire garantissent des produits sains. La viticulture allie tradition et innovation. Le domaine fait face aux défis de la transition écologique."
+    },
+    {
+      "id": 12,
+      "description": "La logistique organise le flux des marchandises du producteur au consommateur. La supply chain management optimise les coûts et délais. Le transport maritime, aérien et terrestre connecte les marchats mondiaux. La gestion d'entrepôt stocke efficacement les produits. Le secteur est crucial pour la mondialisation et requiert organisation et résolution de problèmes."
+    },
+    {
+      "id": 13,
+      "description": "L'immobilier gère, vend et loue des biens immobiliers. L'urbanisme planifie le développement des villes pour améliorer la qualité de vie. La transaction immobilière négocie entre vendeurs et acheteurs. La promotion immobilière crée de nouveaux bâtiments. L'aménagement du territoire équilibre développement économique et préservation environnementale."
+    },
+    {
+      "id": 14,
+      "description": "Ce secteur transmet connaissances et compétences à tous les âges. L'enseignement forme les futures générations. L'animation socio-culturelle développe des activités éducatives. La formation professionnelle améliore les compétences des travailleurs. L'orientation scolaire guide les parcours. L'éducation spécialisée accompagne les publics spécifiques."
+    },
+    {
+      "id": 15,
+      "description": "Le travail social accompagne les personnes vulnérables vers l'autonomie. L'économie sociale et solidaire développe des modèles économiques alternatifs. Le développement local revitalise les territoires. La médiation sociale résout les conflits communautaires. La protection de l'enfance sécurise les mineurs en danger. Le domaine exige empathie et engagement citoyen."
+    },
+    {
+      "id": 16,
+      "description": "L'industrie du sport combine performance athlétique et gestion d'organisations sportives. Le management sportif organise événements et gère carrières. La kinésithérapie et ostéopathie soignent par des techniques manuelles. Le coaching sportif optimise les performances. Le bien-être répond à la demande croissante de qualité de vie et santé préventive."
+    },
+    {
+      "id": 17,
+      "description": "Ce secteur valorise le patrimoine et crée de nouvelles expressions artistiques. La médiation culturelle rend l'art accessible au public. La gestion de musée conserve et expose des collections. La production artistique soutient la création contemporaine. La conservation du patrimoine préserve le legs historique pour les générations futures."
+    },
+    {
+      "id": 18,
+      "description": "La recherche fondamentale explore les frontières de la connaissance sans application immédiate. La recherche appliquée développe des solutions concrètes aux problèmes sociétaux. Les laboratoires universitaires forment les chercheurs de demain. La recherche en sciences humaines comprend les sociétés et comportements humains. L'innovation naît de cette curiosité intellectuelle permanente."
+    },
+    {
+      "id": 19,
+      "description": "Le conseil aide les organisations à résoudre des problèmes complexes et améliorer leurs performances. Le conseil en management optimise l'organisation interne. Le conseil technologique guide les transformations digitales. La stratégie d'entreprise définit les orientations long terme. Les consultants doivent allier expertise sectorielle et capacité d'analyse."
+    },
+    {
+      "id": 20,
+      "description": "L'administration publique sert les citoyens et met en œuvre les politiques gouvernementales. Les collectivités locales gèrent les services de proximité. La fonction publique d'État assure les missions régaliennes. Les services publics fournissent éducation, santé, transport. Le secteur valorise l'intérêt général et la continuité du service public."
+    },
+    {
+      "id": 21,
+      "description": "L'industrie de la mode crée des vêtements et accessoires reflétant les tendances sociétales. Le design de mode allie créativité et technique. Le marketing du luxe cultive l'exclusivité et le rêve. La production textile maîtrise les matières et processus de fabrication. Le merchandising optimise la présentation en magasin pour maximiser les ventes."
+    },
+    {
+      "id": 22,
+      "description": "L'assurance protège les particuliers et entreprises contre les risques divers. L'actuariat utilise les mathématiques pour évaluer les risques financiers. La gestion des risques identifie et minimise les expositions. Le courtage en assurance conseille les clients sur les meilleures couvertures. Le secteur repose sur la confiance et la capacité à anticiper l'incertain."
+    },
+    {
+      "id": 23,
+      "description": "Ce secteur stratégique fournit l'énergie nécessaire au fonctionnement de l'économie. L'ingénierie pétrolière explore et exploite les ressources fossiles. Les énergies renouvelables développent des alternatives durables. L'exploitation minière extrait les minerais essentiels à l'industrie. La géologie étudie la Terre pour localiser les ressources."
+    },
+    {
+      "id": 24,
+      "description": "L'industrie nautique conçoit, construit et exploite les navires et infrastructures portuaires. L'architecture navale crée des bateaux performants et sûrs. La logistique portuaire gère le flux des conteneurs mondiaux. La marine marchande transporte marchandises et passagers par voie maritime. Le secteur vital pour le commerce international évolue vers plus de durabilité."
+    },
+    {
+      "id": 25,
+      "description": "Le spatial explore l'univers et développe des technologies satellitaires essentielles aux communications modernes. La défense protège les nations et développe des systèmes militaires high-tech. L'aéronautique militaire conçoit avions de combat et systèmes de surveillance. Le secteur combine innovation technologique de pointe et enjeux géostratégiques majeurs."
+    },
+    {
+      "id": 26,
+      "description": "Les métiers créatifs du numérique fusionnent art et technologie. Le motion design anime graphiques et interfaces. La réalité virtuelle et augmentée crée des expériences immersives. Le game design développe des jeux vidéo engageants. Le community management bâtit et anime des communautés en ligne. La créativité s'allie aux compétences techniques digitales."
+    },
+    {
+      "id": 27,
+      "description": "Le BTP construit et rénove les infrastructures qui structurent notre environnement : bâtiments, routes, ponts. L'architecture conçoit des espaces fonctionnels et esthétiques. Les bureaux d'études calculent la résistance des structures. Les travaux publics aménagent le territoire. L'économie de la construction optimise les coûts et délais des chantiers."
+    },
+    {
+      "id": 28,
+      "description": "L'industrie automobile conçoit, produit et commercialise les véhicules individuels et collectifs. L'ingénierie automobile innove dans la motorisation et la sécurité. L'après-vente assure maintenance et réparation. La logistique automobile gère les chaînes d'approvisionnement complexes. Le secteur vit une révolution avec l'électrique et l'autonome."
+    },
+    {
+      "id": 29,
+      "description": "L'industrie pharmaceutique recherche, développe et produit des médicaments pour traiter les maladies. La cosmétologie crée des produits de beauté et d'hygiène. La dermo-pharmacie spécialise les soins pour peaux sensibles. Les contrôles qualité garantissent l'innocuité des produits. La réglementation stricte protège les consommateurs."
+    },
+    {
+      "id": 30,
+      "description": "L'industrie du cinéma et de l'audiovisuel produit des contenus pour le divertissement et l'information. La production gère la création des films de A à Z. La post-production perfectionne image et son. La régie audiovisuelle assure la qualité technique des diffusions. Le secteur allie création artistique et maîtrise technologique."
+    },
+    {
+      "id": 31,
+      "description": "Ces technologies disruptives transforment profondément notre société et économie. La blockchain sécurise les transactions décentralisées. Le métavers crée des univers virtuels persistants. L'IA éthique développe une intelligence artificielle responsable. Les objets connectés (IoT) rendent intelligents les objets du quotidien. La robotique avancée automatise des tâches complexes."
+    },
+    {
+      "id": 32,
+      "description": "Ce domaine transversal intègre les enjeux environnementaux et sociaux dans tous les secteurs. L'économie circulaire élimine le concept de déchet. La RSE (Responsabilité Sociétale des Entreprises) guide les entreprises vers des pratiques éthiques. La finance verte oriente les capitaux vers des projets durables. L'urbanisme durable conçoit des villes résilientes et inclusives."
+    },
+    {
+      "id": 33,
+      "description": "La e-santé révolutionne les soins médicaux grâce aux technologies digitales. La télémédecine permet des consultations à distance. La santé connectée utilise des objets pour monitorer les patients. La data santé analyse les informations médicales pour améliorer les traitements. La bio-informatique décrypte le génome pour la médecine personnalisée."
+    },
+    {
+      "id": 34,
+      "description": "Ce secteur protège les personnes, les biens et les informations contre diverses menaces. La sûreté aéroportuaire sécurise le transport aérien. La sécurité incendie prévient et combat les feux. La protection des données défend la vie privée numérique. L'intelligence économique anticipe les risques stratégiques pour les organisations. La sécurité devient un enjeu multidimensionnel."
+    },
+    {
+      "id": 35,
+      "description": "Ces services essentiels soutiennent le fonctionnement des organisations de tous secteurs. Le service client assure la satisfaction et fidélisation des clients. Le support technique résout les problèmes informatiques des utilisateurs. La gestion de projet organise et pilote les initiatives d'entreprise. L'assistanat de direction optimise le travail des cadres. Le facility management gère les espaces et services immobiliers."
+    },
+    {
+      "id": 36,
+      "description": "L'innovation transforme les découvertes scientifiques en applications concrètes bénéfiques pour la société. La recherche clinique teste de nouveaux traitements sur des patients volontaires. L'innovation technologique développe des produits et procédés révolutionnaires. Le transfert de technologie valorise commercialement les résultats de recherche. La veille stratégique surveille l'environnement concurrentiel et technologique. La R&D produit crée les gammes de produits futures des entreprises."
+    },
+    {
+      "id": 37,
+      "description": "Ces métiers préservent les savoir-faire traditionnels tout en innovant pour répondre aux marchés contemporains. L'artisanat d'art perpétue des techniques ancestrales dans la joaillerie, la maroquinerie ou la verrerie. Le design produit conçoit des objets du quotidien alliant esthétique et fonctionnalité. L'ébénisterie transforme le bois en meubles uniques ou série limitée. La céramique crée des pièces utilitaires ou décoratives en terre cuite. Les métiers d'art valorisent le beau et l'authentique dans une économie de masse."
+    },
+    {
+      "id": 38,
+      "description": "Ces métiers de proximité améliorent la qualité de vie des particuliers dans leur quotidien. L'aide à domicile assiste les personnes âgées ou dépendantes dans leurs activités journalières. La garde d'enfants veille sur les plus jeunes pendant que les parents travaillent. Les soins esthétiques répondent aux besoins de bien-être et confiance en soi. Le coaching personnel aide les individus à atteindre leurs objectifs de vie. Les services funéraires accompagnent les familles dans les moments difficiles avec respect et dignité."
+    },
+    {
+      "id": 39,
+      "description": "L'économie des plateformes transforme les modèles d'affaires traditionnels grâce au digital. La gestion de marketplace anime les places de marché connectant offre et demande. La création de contenu digital produit des articles, vidéos et podcasts pour captiver les audiences. La monétisation en ligne génère des revenus via publicité, abonnements ou commissions. La gestion de communauté fédère des audiences engagées autour de marques ou causes. L'influence digitale utilise les réseaux sociaux pour orienter les comportements d'achat et opinions."
+    },
+    {
+      "id": 40,
+      "description": "Ces disciplines académiques trouvent des applications concrètes dans le monde professionnel et sociétal. La sociologie appliquée aide les organisations à comprendre leurs publics et dynamiques internes. La psychologie du travail améliore le bien-être et la performance des salariés en entreprise. L'anthropologie culturelle décrypte les codes sociaux pour mieux concevoir produits et services. La géographie humaine éclaire l'aménagement du territoire et les politiques urbaines. L'histoire appliquée valorise le patrimoine et éclaire les décisions présentes par l'analyse du passé."
+    }
+  ]
+}
+
